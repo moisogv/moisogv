@@ -1,16 +1,17 @@
-## Hi there 👋
+## ADSO GitHub 👋
 
-<!--
-**moisogv/moisogv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Instructor de Análisis y Desarrollo de Software
 
-Here are some ideas to get you started:
+## Proyectos activos
+| Proyecto  |  Estado  |
+|-----------|----------|
+|  SENA-Gimnasio  |en curso  |
+|  Programación Instructores  |en Producción  |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<details>
+  <summary>Aprendices SENA</summary>
+
+  Ficha 3387753, Ficha 3071104
+  
+</details>
